@@ -94,7 +94,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 # --- راه‌اندازی ربات ---
 def main():
     # 🔐 توکن ربات تلگرامی خودت رو اینجا بذار
-    TOKEN = "8496252455:AAEL6KwO7E-Ov4614OF3cwuZUFaY1rsQcdQ"
+    TOKEN = ""
 
     if TOKEN == "YOUR_BOT_TOKEN_HERE":
         print("❌ لطفاً توکن ربات تلگرامی خودت رو وارد کن!")
